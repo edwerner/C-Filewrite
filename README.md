@@ -1,7 +1,7 @@
-C-File-IO
+C-Filewrite
 =========
 
-File I/O in C
+File write sample in C
 
 When .exe file is run, a string is written to file and saved.
 
