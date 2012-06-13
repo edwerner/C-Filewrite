@@ -1,4 +1,4 @@
 C-Filewrite
 ===========
 
-File writing sample in C
+File write sample in C
