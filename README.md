@@ -10,4 +10,4 @@ Compile with the GNU Compiler Collection (GCC)
 Compile:  	gcc -c file-io.c
 			gcc file-io.o -o file-io
 
-Run:		./file-io.out
+Run:		./file-io
